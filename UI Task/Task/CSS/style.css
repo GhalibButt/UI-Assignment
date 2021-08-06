@@ -1,0 +1,44 @@
+body{
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 16px;
+}
+
+.header{
+    height: 900px;
+    background-color: rgb(205, 226, 240);
+}
+
+.text{
+    width: 100%;
+    text-align: right;
+}
+
+
+
+/* .text1{
+    width: 100%;
+    margin-top: 150px;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    background-color: none;
+}
+
+.text2{
+    
+    padding-left: 140px;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: none;
+} */
+
+.rightofheader{
+    float:right;
+    width: 50%;
+    height:100%;
+    background-image: url("/home/dev/Desktop/Training work/UI Task/test project 12/xbg_2.webp");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
